@@ -34,7 +34,7 @@ Technologies used:
 
 **Screen Shot for Chat Widget (Embedded Layout)**
 
-<p><img src="screenshots/Embedded_Layout.png" width="640" height="480" /></p>
+<p><img src="screenshots/Embedded_layout.png" width="640" height="480" /></p>
 <br>
 
 **Screen Shot for Users' Chats  in Chat Widget**
